@@ -1,0 +1,14 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "Maja"
+date: "9/3/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This is so far a test of using github and R studio
