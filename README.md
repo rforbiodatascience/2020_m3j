@@ -6,3 +6,5 @@ Maja
 ## Description
 
 This is so far a test of using github and R studio
+
+The code it self is a PCA and clustering analysis of blossum62 matrix for amino acid substitution. 
